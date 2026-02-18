@@ -8,4 +8,4 @@ This repo is for labs and assignments
 - Lab 2 (Week 3) Submission /lab2_mocha_test
 - Lab 3 (Week 4) Submission /lab3_employee_database
 - Lab 4 (Week 5) Submission /lab4_users_database
-- Lab 5 (Week 6) Submission /lab6_graphql_apollo
+- Lab 5 (Week 6) Submission /lab5_graphql_apollo
